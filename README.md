@@ -224,5 +224,3 @@ This model performed the **best** in my opinion.
 
 
 Overall, I believe this recommendation model does a good job of recommending similar podcasts based on the input (based on my small test set). As an avid podcast listener and someone familiar with many of these podcast titles, these recommendations make sense given the time in which the data was compiled (mid-Nov 2019). Not only does the model cluster well, but it also recommends relevant podcasts across different genres too. Compared to the other models, this one outperformed by recommending the most similar podcasts.
-
-The only recommendations that seem out of place are *The Archers* and *The MeatEater Podcast*. But considering *VIEWS* and *Impaulsive* are podcasts that usually talk about random, unstructured topics each podcast episode, maybe these recommendations match the episode details from when the data was collected.
